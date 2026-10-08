@@ -1,1 +1,4 @@
-print("Hello Malak")
+print("Hello Git")
+
+name = "Malak"
+print(name)
